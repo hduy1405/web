@@ -1,2 +1,2 @@
-![Uploading {937A55B2-FE6E-498C-9D44-4E5577FB47BC}.png…]()
+![Uploading Screenshot 2024-09-19 141743.png…]()
 
