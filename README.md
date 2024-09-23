@@ -1,3 +1,7 @@
+Họ và tên: Nguyễn Hoàng Duy
+MSV: BIT230128
+Lớp 23IT1
+
 TH1
 ![Screenshot 2024-09-16 202943](https://github.com/user-attachments/assets/a6dde445-94ec-41d8-bd12-49069478f2e7)
 
