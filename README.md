@@ -1,7 +1,7 @@
-Họ và tên: Nguyễn Hoàng Duy
-MSV: BIT230128
-Lớp 23IT1
-link glitch: https://concise-kiwi-clementine.glitch.me/
+Họ và tên: Nguyễn Hoàng Duy/
+MSV: BIT230128/
+Lớp 23IT1/
+
 
 
 Bài 1:
