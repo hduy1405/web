@@ -4,39 +4,38 @@ Lớp 23IT1
 link glitch: https://maddening-remarkable-stag.glitch.me/
 
 
-TH1
+Bài 1:
 
 https://maddening-remarkable-stag.glitch.me/bai1/
 
-TH2
-![Screenshot 2024-09-19 142258](https://github.com/user-attachments/assets/6006b169-4758-4bc5-a88e-3dfdced9fcf9)
+Bài 2:
 
+https://maddening-remarkable-stag.glitch.me/bai2/
 
-TH3
-![Screenshot 2024-09-23 110855](https://github.com/user-attachments/assets/c31966fc-bd90-45b6-987e-4c5aa5bd0e47)
+Bài 3:
 
+https://maddening-remarkable-stag.glitch.me/bai3/
 
-TH4
-![Screenshot 2024-09-26 223558](https://github.com/user-attachments/assets/d2f64db0-dfbe-4d21-8d91-2c7c9770d5bd)
+Bài 4:
 
+https://maddening-remarkable-stag.glitch.me/bai4/
 
-TH6
+Bài 6:
+
 flexbox
 
-![Screenshot 2024-09-30 213734](https://github.com/user-attachments/assets/b9a67175-21dd-4e07-8825-a46339ac8d1e)
+https://maddening-remarkable-stag.glitch.me/bai6/flexbox/
 
 float
 
-![Screenshot 2024-09-30 213748](https://github.com/user-attachments/assets/02971c19-f6d6-47f0-972e-b14e5331b503)
+https://maddening-remarkable-stag.glitch.me/bai6/float/float.html
 
 grid
 
-![Screenshot 2024-09-30 213800](https://github.com/user-attachments/assets/9b042a43-cca0-4c21-a32e-5f872cd8fc31)
+https://maddening-remarkable-stag.glitch.me/bai6/grid/grid.html
 
+Bài 7:
 
-TH7
-
-![anh1](https://github.com/user-attachments/assets/da74ff0d-1f2c-4c8f-9ac6-9bf189f2021b)
-
+https://maddening-remarkable-stag.glitch.me/bai7/index.htm
 
 
