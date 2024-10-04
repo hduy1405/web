@@ -1,7 +1,7 @@
 Họ và tên: Nguyễn Hoàng Duy
 MSV: BIT230128
 Lớp 23IT1
-link glitch: [https://maddening-remarkable-stag.glitch.me/](https://concise-kiwi-clementine.glitch.me/)
+link glitch: https://concise-kiwi-clementine.glitch.me/
 
 
 Bài 1:
