@@ -1,6 +1,8 @@
-Họ và tên: Nguyễn Hoàng Duy/
-MSV: BIT230128/
-Lớp 23IT1/
+Họ và tên: Nguyễn Hoàng Duy
+
+MSV: BIT230128
+
+Lớp 23IT1
 
 
 
