@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+img {
+    height: 16px;
+    vertical-align: middle;
+    margin-bottom: 3px;
+}
+
+.header_bar {
+    background-color: #989898;
+}
+
+.container {
+    background-color: rgb(132, 236, 172);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left, .right {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.left {
+    justify-self: start;
+}
+
+.right {
+    justify-self: end;
+}
