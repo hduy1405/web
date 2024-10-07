@@ -40,4 +40,12 @@ Bài 7:
 
 https://maddening-remarkable-stag.glitch.me/bai7/index.htm
 
+Bài 8:
+
+Flex:
+https://adaptable-frequent-gate.glitch.me/bai8/index_3.html
+
+Grid:
+https://adaptable-frequent-gate.glitch.me/bai8/index_4.html
+
 
