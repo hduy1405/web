@@ -1,0 +1,102 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 2px solid #ddd;
+}
+
+header nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #f8f9fa;
+}
+
+.hero-text {
+    max-width: 50%;
+}
+
+.hero-text h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero-text p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.hero-text button {
+    display: flex;
+    padding: 15px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.hero-image {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.main-image {
+    max-width: 700px;
+    border-radius: 10px;
+    z-index: 2;
+}
+
+.circle-image {
+    position: absolute;
+    top: 0;
+    left: -70px;
+    width: 150px;
+    height: auto;
+    z-index: 1;
+}
+
+.retangle-image{
+    position: relative;
+    top: 215px;
+    left: -300px;
+    width: 150px;
+}
+
+.hero-image img {
+    max-width: 700px;
+    border-radius: 10px;
+}
+
+.clients {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #f0f0f0;
+}
+
+.client-logos img {
+    margin: 50px;
+}
