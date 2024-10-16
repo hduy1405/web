@@ -50,4 +50,4 @@ https://adaptable-frequent-gate.glitch.me/bai8/index_4.html
 
 Bài 10:
 
-https://tricolor-uncovered-act.glitch.me/bai10/
+https://booming-liberating-petunia.glitch.me/bai10/
