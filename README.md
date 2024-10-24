@@ -51,3 +51,7 @@ https://adaptable-frequent-gate.glitch.me/bai8/index_4.html
 Bài 10:
 
 https://booming-liberating-petunia.glitch.me/bai10/
+
+ktra-giuaki
+
+https://seen-prickly-cosmos.glitch.me/ktra-giuaki/
